@@ -1,5 +1,5 @@
 @import url("https://nyri4.github.io/Discolored/main.css");
-@import url("https://xcruxiex.github.io/themes/core/hljs.css");
+@import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/hljs.css");
 
 :root {
     --backgroundColor01: #1e2731;
@@ -600,7 +600,7 @@
 
 #app-mount .check__5621e {
     background: var(--mainColor) !important;
-    -webkit-mask-image: url(/assets/1c0a5d38bdeaaad433b68cf6092ed510.svg)
+    mask-image: url(/assets/1c0a5d38bdeaaad433b68cf6092ed510.svg);
 }
 
 #app-mount .wordmarkWindows__421ed {

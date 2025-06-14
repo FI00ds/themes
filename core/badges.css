@@ -1,5 +1,5 @@
 .avatar_c19a55 + h3 > .headerText_c19a55 > .username_c19a55::after {
-  display: inline-block;
+  display: inline-flex;
   height: 14px;
   width: 14px;
   line-height: 14px;
@@ -9,7 +9,7 @@
   background-image: url('');
   position: relative;
   top: 2px;
-  margin-left: 5px;
+  margin-left: -14px;
 }
 .avatar_c19a55 + h3 > .headerText_c19a55 > .username_c19a55:hover::after {
   width: auto;
@@ -22,9 +22,10 @@
   top: -1px;
   font-weight: normal;
   animation-timing-function: linear;
-  transition: 
+  transition:
     color .2s ease,
     background-color .2s ease;
+  margin-left: -176px;
 }
 
 @keyframes rainbow {

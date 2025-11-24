@@ -5,10 +5,10 @@
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
     --font-display: var(--customFont);
-    --homeImage: url('https://imgur.com/eItxuAq.png');
+    --homeImage: url('https://raw.githubusercontent.com/xcruxiex/themes/refs/heads/master/themes-cores/8HomeIcon.png');
     --homeImageSize: cover;
     --backgroundColor: #0d0d0d;
-    --backgroundImage: url('https://imgur.com/qhBghXt.png');
+    --backgroundImage: url('https://raw.githubusercontent.com/xcruxiex/themes/refs/heads/master/themes-cores/8NeutronBackground.jpg');
     --backgroundPosition: center;
     --backgroundSize: cover;
     --backgroundRepeat: no-repeat;
@@ -523,7 +523,8 @@ body {
     width: 100%;
     height: 25px;
     background: radial-gradient(var(--themeColor1), var(--themeColor2), transparent 70%);
-    opacity: .1
+    opacity: .1;
+    pointer-events: none;
 }
 
 .winButton__421ed svg * {

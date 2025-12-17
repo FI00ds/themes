@@ -635,7 +635,11 @@
     background-color: var(--backgroundColor02) !important
 }
 
-#app-mount ._91a9d7f7e5248a56-clickable._91a9d7f7e5248a56-container .activity__5d473 {
+#app-mount .childContainer__91a9d {
+  padding: 0;
+}
+
+#app-mount .clickable__91a9d.container__91a9d .activity__5d473 {
     color: rgba(255, 255, 255, .5) !important
 }
 

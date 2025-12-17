@@ -7,7 +7,7 @@
 * @source https://github.com/xcruxiex/themes
 * @website https://betterdiscord.app/theme/Nocturnal
 */
-@import url("https://xcruxiex.github.io/themes/themes-cores/nocturnal.css");
+@import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/themes-cores/nocturnal.css");
 /*
 
 
@@ -30,8 +30,8 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 
 
 */
-@import url("https://xcruxiex.github.io/themes/core/badges.css");
-@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+@import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/badges.css");
+@import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/custom-font.css");
 @import url("https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.css"); /* Radial Status */
 :root {
     --backgroundColor01: #1e2731;

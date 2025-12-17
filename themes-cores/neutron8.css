@@ -1,3 +1,23 @@
+@import url("https://raw.githubusercontent.com/FI00ds/themes/refs/heads/master/core/custom-font.css");
+@import url("https://nyri4.github.io/Discolored/main.css");
+
+:root {
+    --themeColor1: #36D1DC;
+    --themeColor2: #5B86E5;
+    --font-display: var(--customFont);
+    --homeImage: url('https://raw.githubusercontent.com/xcruxiex/themes/refs/heads/master/themes-cores/8HomeIcon.png');
+    --homeImageSize: cover;
+    --backgroundColor: #0d0d0d;
+    --backgroundImage: url('https://raw.githubusercontent.com/xcruxiex/themes/refs/heads/master/themes-cores/8NeutronBackground.jpg');
+    --backgroundPosition: center;
+    --backgroundSize: cover;
+    --backgroundRepeat: no-repeat;
+    --backgroundBlur: 100px;
+    --backgroundOpacity: .65;
+    --backgroundCode: rgba(0, 0, 0, .5);
+    --backgroundName: rgba(0, 0, 0, .5);
+}
+
 .appMount__51fd7,
 body {
     background-color: var(--backgroundColor) !important

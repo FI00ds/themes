@@ -1,12 +1,13 @@
+
 @import url("https://nyri4.github.io/Discolored/main.css");
 
 :root {
-    --backgroundColor01: #1e2731;
-    --backgroundColor02: #12171d;
-    --mainColor: #2275c9;
-    --gradientColor01: #00f260;
-    --gradientColor02: #0575e6;
-    --backgroundCode: #1e2731;
+    --backgroundColor01: #110022;
+    --backgroundColor02: #0a0014;
+    --mainColor: #47018c;
+    --gradientColor01: #3b0175;
+    --gradientColor02: #3b0175;
+    --backgroundCode: #0a0014;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
     --rs-medium-spacing: 3px;
@@ -1034,7 +1035,7 @@
 
 #app-mount .children__9293f:after,
 #app-mount .content_f75fb0:before,
-#app-mount .divider__44f7f,
+#app-mount .divider__1de9c,
 #app-mount .form_f75fb0:before,
 #app-mount .guildSeparator-33mFX6,
 #app-mount .libraryHeader__5a895:before,
@@ -3589,3 +3590,14 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 .clickable_c99c29{color:var(--mainColor)}
 .chat_f02135{background-color:var(--backgroundColor02)}
 .panels__5e434{background-color:var(--backgroundColor01);}
+.visual-refresh .wrapper_ef3116{transition:.1s ease;width:10px;display:flex}
+.visual-refresh .wrapper_ef3116:hover{width:72px}
+/*spotify player tab*/
+#vc-spotify-player{background-color: var(--backgroundColor02);}
+/*boost progress*/
+.progressContainer__0d0f9{background-color: var(--backgroundColor01);}
+/*settings main splash screen*/
+.contentHeader_e9e3ed,.content_e9e3ed,.sidebar__409aa{background: var(--backgroundColor02) !important;}
+.fixedContent__409aa:after{display: none;}
+/*Search*/
+.itemContainer__971b5:active, .itemContainer__971b5:hover, .itemContainer__971b5[aria-selected=true]{background-color: rgba(13, 13, 13, 0.5);}

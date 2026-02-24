@@ -43,7 +43,7 @@ Enable or disable each color preset: Remove the last `/*` after the name of each
 The enabled preset by default is an example of how to do this.
 */
 
-/* Nocturnal 3.0 */  /*
+/* Nocturnal 3.0 */  
   --mainColor: #2275c9;
   --gradientColor01: #00F260;
   --gradientColor02: #0575E6;
@@ -61,7 +61,7 @@ The enabled preset by default is an example of how to do this.
   --linkcolor: #597285;
   --backgroundCode: #12191d;
 
-/* Purple */  
+/* Purple */  /*
   --mainColor: #6900d1;
   --gradientColor01: #7800f1;
   --gradientColor02: #bb00c5;

@@ -16,7 +16,7 @@ Discord server invite : https://discord.gg/PZdnCVD
    * Add a screenshot if needed
 
 ## 2. Installing a theme
-First of all, make sure you have installed [BetterDiscord](https://betterdiscord.app/)
+First of all, make sure you have installed BetterDiscord
 
    * Step 1: Download the theme file, somewhere you can find it.
    * Step 2: Open the themes folder:
@@ -44,16 +44,12 @@ All themes are provided with images & color, but you can easily customize your t
 ## Neutron 
 A highly customizable Vibrant Purple Space Theme, now sugar free!
 
-Download : https://betterdiscord.app/theme/Neutron
-
 Neutron Nova | OG Neutron
 :-------------------------:|:-------------------------:
 ![](https://i.vgy.me/fdu14a.png)  |  ![](https://i.vgy.me/Yb7mfR.png)
 
 ## Nocturnal 
 For when default discord just isn't dark enough, a theme for those who live a night. Now with extra spice!
-
-Download : https://betterdiscord.app/theme/Nocturnal
 
 Purple |
 :-------------------------:
